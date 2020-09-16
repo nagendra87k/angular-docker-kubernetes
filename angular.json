@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-docker-kubernetes"
+    }
+  },
+  "defaultProject": "angular-docker-kubernetes",
+  "cli": {
+    "analytics": "4738a3f0-11ee-47d9-ab17-de315032d59b"
+  }
 }
